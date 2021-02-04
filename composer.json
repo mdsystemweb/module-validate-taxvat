@@ -3,9 +3,20 @@
     "description": "Module to validate cpf field",
     "type": "magento2-module",
     "license": "proprietary",
-    "version": "1.0.1",
-    "minimum-stability": "stable",
-    "require": {},
+    "version": "1.0.2",
+	"require": {},
+	"homepage": "https://www.mdsystemweb.com.br/",
+	"support": {
+        "email": "contato@mdsystemweb.com.br"
+	},
+	"authors": [
+        {
+            "name": "Diogo dos Santos Alves",
+            "email": "contato@mdsystemweb.com.br",
+            "homepage": "https://www.mdsystemweb.com.br/",
+            "role": "CEO"
+        }
+    ],
     "autoload": {
         "psr-4": {
             "Mdsystemweb\\ValidateTaxvat\\": ""
