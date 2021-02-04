@@ -2,7 +2,7 @@
     "name": "mdsystemweb/module-validate-taxvat",
     "description": "Module to validate cpf field",
 	"license": "proprietary",
-	"minimum-stability": "stable",
+	"minimum-stability": "dev",
     "authors": [
         {
             "name": "Diogo dos Santos Alves",
