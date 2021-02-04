@@ -1,0 +1,17 @@
+{
+    "name": "mdsystemweb/module-validate-taxvat",
+    "description": "Module to validate cpf field",
+    "type": "magento2-module",
+    "license": "proprietary",
+    "version": "1.0.0",
+    "minimum-stability": "stable",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Mdsystemweb\\ValidateTaxvat\\": ""
+        },
+        "files": [
+            "registration.php"
+        ]
+    }
+}
